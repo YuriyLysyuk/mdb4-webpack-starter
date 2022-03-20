@@ -1,1 +1,1 @@
-# Starter webpack template for MDBootstrap 4 jQuery Free & Pro
+# Starter webpack template for MDBootstrap 4 jQuery
