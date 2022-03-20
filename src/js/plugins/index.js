@@ -1,2 +1,2 @@
-// Import bootstrap css/js
 import './bootstrap';
+import './fontawesome';
