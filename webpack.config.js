@@ -87,10 +87,10 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: `css/${fileName('css')}`,
     }),
-    // new webpack.ProvidePlugin({
-    //   $: 'jquery',
-    //   jQuery: 'jquery',
-    // }),
+    new webpack.ProvidePlugin({
+      $: 'jquery',
+      jQuery: 'jquery',
+    }),
   ],
   module: {
     rules: [
