@@ -37,6 +37,7 @@
     "@fontsource/roboto": "^4.5.3",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^4.6.1",
+    "chart.js": "^2.7.3",
     "jquery": "^3.6.0",
     "mdbootstrap": "^4.20.0",
     "popper.js": "^1.16.1"

@@ -1,3 +1,3 @@
 import './bootstrap';
 import './fontawesome';
-import './mdb4-light-free';
+import './mdb4-free';
