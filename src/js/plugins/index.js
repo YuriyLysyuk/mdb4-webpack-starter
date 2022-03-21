@@ -1,3 +1,6 @@
+import config from '@/js/config';
+
 import './bootstrap';
 import './fontawesome';
-import './mdb4-free';
+// Import selected mdbootstrap version
+import(`./${config.mdbVersion}`);
