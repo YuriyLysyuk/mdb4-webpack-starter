@@ -1,6 +1,11 @@
 // SCSS
 import 'mdbootstrap/scss/mdb-free.scss';
-// JS
+
+/**
+ * JS
+ *
+ * Comment import lines below for smaller bundle size if you don't need this functionality
+ */
 import 'mdbootstrap/src/js/vendor/free/jquery.easing';
 import 'mdbootstrap/src/js/vendor/free/velocity';
 import 'mdbootstrap/src/js/vendor/free/chart';
@@ -15,3 +20,7 @@ import 'mdbootstrap/src/js/free/treeview';
 const bsCustomFileInput = import(
   'mdbootstrap/src/js/vendor/free/bs-custom-file-input.js'
 );
+
+/**
+ * Custom scripts
+ */
