@@ -1,3 +1,5 @@
 node_modules
 package-lock.json
 dist
+src/mdb4-pro/*
+!src/mdb4-pro/README.md
